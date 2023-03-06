@@ -3,7 +3,7 @@ font-family: 'Montserrat', sans-serif; */
 
 
 body {
-  background-color:  Cream: hsl(30, 38%, 92%);
+  background-color:  hsl(30, 38%, 92%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -52,7 +52,7 @@ body {
   font-weight: 700;
   color: hsl(212, 21%, 14%);
   line-height: 2.2rem;
-  font-size: ; 2rem;
+  font-size: 2rem;
 }
 
 
